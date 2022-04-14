@@ -14,5 +14,5 @@ Espero que o material apresentado lhe auxilie.
 Considere seguir minha pagina no instagram e meu linkedin.
 Obrigado!
 
-* Linkedin[]'(https://www.linkedin.com/in/christhian-santana-cunha-8a0424204/')
-* Instragam[]('https://www.instagram.com/scriptsremote/')
+* [Linkedin]('https://www.linkedin.com/in/christhian-santana-cunha-8a0424204/')
+* [Instagram]('https://www.instagram.com/scriptsremote/')
