@@ -2,14 +2,14 @@
 
 Olá, tudo bem?
 
-Me chamos Christhian Cunha e sou Gestor Ambiental e Doutor em Sensoriamento Remoto. 
+Me chamos Christhian Cunha e sou Gestor Ambiental, Mestre em Recursos Hídricos e Doutor em Sensoriamento Remoto.
 
 Seja bem-vindo a este repositório.
 
 Aqui compartilhos códigos abertos, criados ou adaptados utilizando o Google Earth Engine, JavaScript ou em linguagem Python.
 
 Os códigos foram criados ou adaptados a partir de diferentes referências e visam auxiliar a todas as pessoas
-interessadas no processamento digital de imagens (PDI) ou em processos de Big Data. 
+interessadas no processamento digital de imagens (PDI) ou em processos de Big Data.
 
 Espero que o material apresentado lhe auxilie.
 
