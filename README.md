@@ -2,7 +2,7 @@
 
 Olá, tudo bem?
 
-Me chamos Christhian Cunha e sou Gestor Ambiental e estudante de doutorado em Sensoriamento Remoto. 
+Me chamos Christhian Cunha e sou Gestor Ambiental e Doutor em Sensoriamento Remoto. 
 
 Seja bem-vindo a este repositório.
 
